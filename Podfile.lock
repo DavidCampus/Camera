@@ -1,0 +1,12 @@
+PODS:
+  - FLTextView (1.0.2):
+    - FLTextView/Default (= 1.0.2)
+  - FLTextView/Default (1.0.2)
+
+DEPENDENCIES:
+  - FLTextView (~> 1.0)
+
+SPEC CHECKSUMS:
+  FLTextView: e84bb23e1e078d749219724fef86d4a149cfc04a
+
+COCOAPODS: 0.37.2

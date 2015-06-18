@@ -1,0 +1,1 @@
+PODS_FLTEXTVIEW_OTHER_LDFLAGS = -framework "UIKit"
